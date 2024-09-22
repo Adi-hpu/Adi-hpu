@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I am Aditya</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  I'm a passionate **Data Science** student, exploring the fascinating world of data, machine learning, and AI. 📊ttara</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....Uttarakhand<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
