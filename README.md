@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  I'm a passionate **Data Science** student, exploring the fascinating world of data, machine learning, and AI. 📊ttara</h3>
+<h3 align="left">👩‍💻  I'm a passionate **Data Science** student, exploring the fascinating world of data, machine learning, and AI. 📊</h3>
 
 ###
 
-<p align="left">I'm ... from ....Uttarakhand<br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....Uttarakhand.<br><br>- 📚 I'm a Student.<br>- </p>
 
 ###
 
