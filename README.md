@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3Dman%2Bcoding%2Bon%2Blaptop%2Bhigh%2Btech%2Btechnology%2Bconcept%2Bart%2Bhigh%2Btech&psig=AOvVaw3mkmenWXpQSyOrgmQXar5j&ust=1727070666799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCNkuDt1YgDFQAAAAAdAAAAABAE">
+  <img src="https://www.google.com/url sa=i&url=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3Dman%2Bcoding%2Bon%2Blaptop%2Bhigh%2Btech%2Btechnology%2Bconcept%2Bart%2Bhigh%2Btech&psig=AOvVaw3mkmenWXpQSyOrgmQXar5j&ust=1727070666799000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCNkuDt1YgDFQAAAAAdAAAAABAE">
 </div>
 
 ###
